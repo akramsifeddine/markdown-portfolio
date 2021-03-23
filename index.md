@@ -1,14 +1,23 @@
----
-layout: default
----
+:heart::smile::heart::smile::heart::smile:
+:heart:
+:heart:
+:heart:
+:smile:
 
-{% include 01-name.md %}
 
-<br>
 
-{% include 02-image.md %}
 
-<br>
 
-{% include 03-links.md %}
 
+
+
+
+
+
+
+
+
+
+
+
+:smile::smile::smile::smile::smile::smile::smile::smile:
